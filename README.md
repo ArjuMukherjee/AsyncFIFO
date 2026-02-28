@@ -49,7 +49,7 @@ The simulation waveform verifies:
 
 ### Example Simulation Output:
 
-![Waveform](waveform.png)
+![Waveform](WaveformFIFO.png)
 
 ---
 
